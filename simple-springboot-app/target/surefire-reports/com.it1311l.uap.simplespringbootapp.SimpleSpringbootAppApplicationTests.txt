@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.it1311l.uap.simplespringbootapp.SimpleSpringbootAppApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 2.163 s - in com.it1311l.uap.simplespringbootapp.SimpleSpringbootAppApplicationTests
